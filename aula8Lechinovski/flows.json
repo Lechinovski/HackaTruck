@@ -1,0 +1,352 @@
+[
+    {
+        "id": "01e5fc3cd36a667d",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "4653f81ae5e446f5",
+        "type": "http in",
+        "z": "01e5fc3cd36a667d",
+        "name": "",
+        "url": "/lechinovskiGET",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 100,
+        "wires": [
+            [
+                "f7a7741a3ecefa9d"
+            ]
+        ]
+    },
+    {
+        "id": "ee155a626a3ea763",
+        "type": "http response",
+        "z": "01e5fc3cd36a667d",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 630,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "f7a7741a3ecefa9d",
+        "type": "cloudantplus out",
+        "z": "01e5fc3cd36a667d",
+        "name": "",
+        "cloudant": "df4df77e90cd73bf",
+        "database": "lechinovskidb",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 360,
+        "y": 100,
+        "wires": [
+            [
+                "ee155a626a3ea763",
+                "b4656716094ff94f"
+            ]
+        ]
+    },
+    {
+        "id": "b4656716094ff94f",
+        "type": "debug",
+        "z": "01e5fc3cd36a667d",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 640,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "dbb6b3d7b368c5b7",
+        "type": "http in",
+        "z": "01e5fc3cd36a667d",
+        "name": "",
+        "url": "/lechinovskiPOST",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 280,
+        "wires": [
+            [
+                "46aebdb4ba78efd3"
+            ]
+        ]
+    },
+    {
+        "id": "ec2d886e8ce70c62",
+        "type": "http response",
+        "z": "01e5fc3cd36a667d",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 630,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "ee2bf9da3b1507ae",
+        "type": "cloudantplus out",
+        "z": "01e5fc3cd36a667d",
+        "name": "",
+        "cloudant": "df4df77e90cd73bf",
+        "database": "lechinovskidb",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 440,
+        "y": 280,
+        "wires": [
+            [
+                "ec2d886e8ce70c62",
+                "c46e5c3ef577296f"
+            ]
+        ]
+    },
+    {
+        "id": "c46e5c3ef577296f",
+        "type": "debug",
+        "z": "01e5fc3cd36a667d",
+        "name": "debug 2",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 640,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "93e59a2d69a3903d",
+        "type": "http response",
+        "z": "01e5fc3cd36a667d",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 630,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "60abd1ee88aceec4",
+        "type": "debug",
+        "z": "01e5fc3cd36a667d",
+        "name": "debug 3",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 640,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "8da48aeedc0facf9",
+        "type": "http in",
+        "z": "01e5fc3cd36a667d",
+        "name": "",
+        "url": "/lechinovskiREAD",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 460,
+        "wires": [
+            [
+                "24363a4a5ad9aa80"
+            ]
+        ]
+    },
+    {
+        "id": "6a53a16fa78e1463",
+        "type": "http response",
+        "z": "01e5fc3cd36a667d",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 630,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "9815020e748cd990",
+        "type": "cloudantplus out",
+        "z": "01e5fc3cd36a667d",
+        "name": "",
+        "cloudant": "df4df77e90cd73bf",
+        "database": "lechinovskidb",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 360,
+        "y": 640,
+        "wires": [
+            [
+                "6a53a16fa78e1463",
+                "2f175abaee40f53c"
+            ]
+        ]
+    },
+    {
+        "id": "2f175abaee40f53c",
+        "type": "debug",
+        "z": "01e5fc3cd36a667d",
+        "name": "debug 4",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 640,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "871d45d95475bacf",
+        "type": "http in",
+        "z": "01e5fc3cd36a667d",
+        "name": "",
+        "url": "/lechinovskiPUT",
+        "method": "put",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 120,
+        "y": 640,
+        "wires": [
+            [
+                "9815020e748cd990"
+            ]
+        ]
+    },
+    {
+        "id": "24363a4a5ad9aa80",
+        "type": "cloudantplus in",
+        "z": "01e5fc3cd36a667d",
+        "name": "",
+        "cloudant": "df4df77e90cd73bf",
+        "database": "lechinovskidb",
+        "service": "_ext_",
+        "search": "_all_",
+        "design": "",
+        "index": "",
+        "x": 380,
+        "y": 460,
+        "wires": [
+            [
+                "93e59a2d69a3903d",
+                "60abd1ee88aceec4"
+            ]
+        ]
+    },
+    {
+        "id": "9f7cdd77cae21822",
+        "type": "http response",
+        "z": "01e5fc3cd36a667d",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 630,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "7d20f7aab8ad5889",
+        "type": "cloudantplus out",
+        "z": "01e5fc3cd36a667d",
+        "name": "",
+        "cloudant": "df4df77e90cd73bf",
+        "database": "lechinovskidb",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "delete",
+        "x": 360,
+        "y": 820,
+        "wires": [
+            [
+                "9f7cdd77cae21822",
+                "078f293e1d91dfac"
+            ]
+        ]
+    },
+    {
+        "id": "078f293e1d91dfac",
+        "type": "debug",
+        "z": "01e5fc3cd36a667d",
+        "name": "debug 5",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 640,
+        "y": 880,
+        "wires": []
+    },
+    {
+        "id": "ec9b98d49109cf01",
+        "type": "http in",
+        "z": "01e5fc3cd36a667d",
+        "name": "",
+        "url": "/lechinovskiDELETE",
+        "method": "delete",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 140,
+        "y": 820,
+        "wires": [
+            [
+                "7d20f7aab8ad5889"
+            ]
+        ]
+    },
+    {
+        "id": "46aebdb4ba78efd3",
+        "type": "split",
+        "z": "01e5fc3cd36a667d",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 290,
+        "y": 280,
+        "wires": [
+            [
+                "ee2bf9da3b1507ae"
+            ]
+        ]
+    },
+    {
+        "id": "df4df77e90cd73bf",
+        "type": "cloudantplus",
+        "host": "https://apikey-v2-10jxylvs36u46ldr6za4p2sero86jnboc26asrbk2q0g:0f284505f2f612099b7186f933976498@8472bb0f-4f34-4675-bd25-3cf7a52343d1-bluemix.cloudantnosqldb.appdomain.cloud",
+        "name": "",
+        "useapikey": true
+    }
+]

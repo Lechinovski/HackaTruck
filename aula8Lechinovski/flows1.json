@@ -1,0 +1,21 @@
+[
+    {
+        "id": "e3348c10f7b62667",
+        "type": "function",
+        "z": "cac4f8b5845d227b",
+        "name": "function 1",
+        "func": "function textForNumber(text) {\n    switch (texto.toLowerCase()) {\n        case \"dois\":\n        return 2;\n            break;\n        default:\n        return NaN;\n            \n    }\n}\n\nvar texto = \"dois\"\nvar numero ",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 420,
+        "wires": [
+            [
+                "3482059c8fa70e72"
+            ]
+        ]
+    }
+]
