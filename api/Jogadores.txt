@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "s1mple",
+    "name2": "Oleksandr Kostyliev",
+    "country": "Ukraine",
+    "country_photo": "https://prosettings.net/wp-content/plugins/prosettings-customization/assets/flags/rounded-rectangle/ua.svg",
+    "birthday": "October 2, 1997",
+    "photo": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=240%2Cq=99%2Csharpen=1%2Cwidth=240/wp-content/uploads/s1mple.png",
+    "team": "Natus Vincere",
+    "team_photo": "https://prosettings.net/wp-content/uploads/natus-vincere.svg"
+
+  },
+  {
+    "id": 2,
+    "name": "NiKo",
+    "name2": "Nikola Kovač",
+    "country": "Bosnia & Herzegovina",
+    "country_photo": "https://prosettings.net/wp-content/plugins/prosettings-customization/assets/flags/rounded-rectangle/ba.svg",
+    "birthday": "February 16, 1997",
+    "photo": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=240%2Cq=99%2Csharpen=1%2Cwidth=240/wp-content/uploads/niko.png",
+    "team": "G2 Esports",
+    "team_photo": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/g2-esports.png"
+
+  },
+  {
+    "id": 3,
+    "name": "m0NESY",
+    "name2": "Ilya Osipov",
+    "country": "Russia",
+    "country_photo": "https://prosettings.net/wp-content/plugins/prosettings-customization/assets/flags/rounded-rectangle/ru.svg",
+    "birthday": "May 1, 2005",
+    "photo": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=240%2Cq=99%2Csharpen=1%2Cwidth=240/wp-content/uploads/m0nesy.png",
+    "team": "G2 Esports",
+    "team_photo": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/g2-esports.png"
+
+  },
+  {
+    "id": 4,
+    "name": "TenZ",
+    "name2": "Tyson Ngo",
+    "country": "Canada",
+    "country_photo": "https://prosettings.net/wp-content/plugins/prosettings-customization/assets/flags/rounded-rectangle/ca.svg",
+    "birthday": "May 5, 2001",
+    "photo": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=240%2Cq=99%2Csharpen=1%2Cwidth=240/wp-content/uploads/tenz.png",
+    "team": "Sentinels",
+    "team_photo": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/sentinels.png"
+
+  },
+  {
+    "id": 5,
+    "name": "b1t",
+    "name2": "Valerii Vakhovskyi",
+    "country": "Valerii Vakhovskyi",
+    "country_photo": "https://prosettings.net/wp-content/plugins/prosettings-customization/assets/flags/rounded-rectangle/ua.svg",
+    "birthday": "January 5, 2003",
+    "photo": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=240%2Cq=99%2Csharpen=1%2Cwidth=240/wp-content/uploads/b1t.png",
+    "team": "Natus Vincere",
+    "team_photo": "https://prosettings.net/wp-content/uploads/natus-vincere.svg"
+
+  },
+  {
+    "id": 6,
+    "name": "",
+    "name2": "",
+    "country": "",
+    "country_photo": "",
+    "birthday": "",
+    "photo": "",
+    "team": "",
+    "team_photo": ""
+
+  },
+  {
+    "id": 7,
+    "name": "",
+    "name2": "",
+    "country": "",
+    "country_photo": "",
+    "birthday": "",
+    "photo": "",
+    "team": "",
+    "team_photo": ""
+
+  },
+  {
+    "id": 8,
+    "name": "",
+    "name2": "",
+    "country": "",
+    "country_photo": "",
+    "birthday": "",
+    "photo": "",
+    "team": "",
+    "team_photo": ""
+
+  },
+  {
+    "id": 9,
+    "name": "",
+    "name2": "",
+    "country": "",
+    "country_photo": "",
+    "birthday": "",
+    "photo": "",
+    "team": "",
+    "team_photo": ""
+
+  },
+  {
+    "id": 10,
+    "name": "",
+    "name2": "",
+    "country": "",
+    "country_photo": "",
+    "birthday": "",
+    "photo": "",
+    "team": "",
+    "team_photo": ""
+
+  },
+  {
+    "id": 11,
+    "name": "",
+    "name2": "",
+    "country": "",
+    "country_photo": "",
+    "birthday": "",
+    "photo": "",
+    "team": "",
+    "team_photo": ""
+
+  },
+  {
+    "id": 12,
+    "name": "",
+    "name2": "",
+    "country": "",
+    "country_photo": "",
+    "birthday": "",
+    "photo": "",
+    "team": "",
+    "team_photo": ""
+
+  },
+  {
+    "id": 13,
+    "name": "",
+    "name2": "",
+    "country": "",
+    "country_photo": "",
+    "birthday": "",
+    "photo": "",
+    "team": "",
+    "team_photo": ""
+
+  },
+  {
+    "id": 14,
+    "name": "",
+    "name2": "",
+    "country": "",
+    "country_photo": "",
+    "birthday": "",
+    "photo": "",
+    "team": "",
+    "team_photo": ""
+
+  },
+  {
+    "id": 15,
+    "name": "",
+    "name2": "",
+    "country": "",
+    "country_photo": "",
+    "birthday": "",
+    "photo": "",
+    "team": "",
+    "team_photo": ""
+
+  },
+]
