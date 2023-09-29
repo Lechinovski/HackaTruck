@@ -1,0 +1,63 @@
+[
+    
+    {
+        "id": "110",
+        "nickJogador": "xmpl",
+        "nameJogador": "Artem Adarkin",
+        "countryJogador": "Russia",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1156302210003636386/ru.png?ex=65171cd9&is=6515cb59&hm=c34a3b4bfc847ca7ace5e5a22fa938be3289c9e24686b56bc062ab5e4a1502c8&=&width=1024&height=1024",
+        "birthdayJogador": "23/04/1999",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/xmpl.png",
+        "teamJogador": "Natus Vincere",
+        "teamPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1156300026075680910/natus-vincere.png?ex=65171ad1&is=6515c951&hm=540929d85adb8671cb04a9b3b43ff96adbfebbe0373d2c69a66880d38192fef0&=&width=1060&height=1060"
+    },
+    
+    {
+        "id": "111",
+        "nickJogador": "Fuzzface",
+        "nameJogador": "David Tillberg-Persson",
+        "countryJogador": "Estados Unidos",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157048508734521465/us.png?ex=651730e5&is=6515df65&hm=4eb9de86602dcbbcd4fbc7eea7944f1edefc3ecb752073edd61d6157350fc0a8&=&width=1024&height=1024",
+        "birthdayJogador": "08/02/1994",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/fuzzface.png",
+        "teamJogador": "OVERPEEKERS",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/overpeekers.png"
+    },
+    
+    {
+        "id": "112",
+        "nickJogador": "Gustav",
+        "nameJogador": "Gustav Blønd",
+        "countryJogador": "Dinamarca",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157053346457333830/dk.png?ex=65173566&is=6515e3e6&hm=0d97001fde40baff19a935f324467291b07b282909f718b69cddabd38dab901c&=&width=1024&height=1024",
+        "birthdayJogador": "03/09/1999",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/gustav.png",
+        "teamJogador": "FaZe Clan",
+        "teamPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1156271630809579640/image.png?ex=6517005f&is=6515aedf&hm=5c206cfd4bacc4504bea9a5faf88362e6f4debc698e8ce04cd6526f95d9bac16&=&width=1060&height=1060"
+    },
+    {
+        "id": "113",
+        "nickJogador": "hwinn",
+        "nameJogador": "Hunter Winn",
+        "countryJogador": "Estados Unidos",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157048508734521465/us.png?ex=651730e5&is=6515df65&hm=4eb9de86602dcbbcd4fbc7eea7944f1edefc3ecb752073edd61d6157350fc0a8&=&width=1024&height=1024",
+        "birthdayJogador": "28/04/1994",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/hwinn.png",
+        "teamJogador": "Soniqs",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=434%2Cq=80%2Csharpen=1%2Cwidth=434/wp-content/uploads/soniqs.png"
+    },
+    {
+        "id": "114",
+        "nickJogador": "Jeemzz",
+        "nameJogador": "Jim Eliassen",
+        "countryJogador": "Noruega",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157049689481420890/no.png?ex=651731fe&is=6515e07e&hm=5be877e96764dc71f182e0251a9f3a0900ca5bb26af92cf8bd26d07a3bb3214e&=&width=1024&height=1024",
+        "birthdayJogador": "06/10/1996",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/jeemzz.png",
+        "teamJogador": "FaZe Clan",
+        "teamPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1156271630809579640/image.png?ex=6517005f&is=6515aedf&hm=5c206cfd4bacc4504bea9a5faf88362e6f4debc698e8ce04cd6526f95d9bac16&=&width=1060&height=1060"
+    },
+    
+]
+ 
+ 

@@ -1,0 +1,63 @@
+[
+    
+    {
+        "id": "200",
+        "nickJogador": "blackoutz",
+        "nameJogador": "Patrick Garcia Da Silva",
+        "countryJogador": "Brasil",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157043088892633169/br.png?ex=65172bd9&is=6515da59&hm=8021ade5028f821b43192affb650fa73080a50660b22fa2473a9bda451e2c965&",
+        "birthdayJogador": "16/04/1999",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/blackoutz.png",
+        "teamJogador": "Cloud9",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156274019159519284/cloud9.png?ex=65170298&is=6515b118&hm=5ce273b7e3feaf7008b00efedaa1d44b9344b2ba6a6b801b067f12ec7ba234f1&"
+    },
+    
+    {
+        "id": "201",
+        "nickJogador": "MrSavage",
+        "nameJogador": "Martin Foss Andersen",
+        "countryJogador": "Noruega",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157049689481420890/no.png?ex=651731fe&is=6515e07e&hm=5be877e96764dc71f182e0251a9f3a0900ca5bb26af92cf8bd26d07a3bb3214e&",
+        "birthdayJogador": "12/11/2004",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/mrsavage.png",
+        "teamJogador": "00Nation",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/00nation.png"
+    },
+    
+    {
+        "id": "202",
+        "nickJogador": "Bugha",
+        "nameJogador": "Kyle Giersdorf",
+        "countryJogador": "Estados Unidos",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157048508734521465/us.png?ex=651730e5&is=6515df65&hm=4eb9de86602dcbbcd4fbc7eea7944f1edefc3ecb752073edd61d6157350fc0a8&",
+        "birthdayJogador": "30/12/2002",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/bugha.png",
+        "teamJogador": "Dignitas",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/dignitas.png"
+    },
+    {
+        "id": "203",
+        "nickJogador": "Pulga",
+        "nameJogador": "Thales Henrique",
+        "countryJogador": "Brasil",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157043088892633169/br.png?ex=65172bd9&is=6515da59&hm=8021ade5028f821b43192affb650fa73080a50660b22fa2473a9bda451e2c965&",
+        "birthdayJogador": "25/06/1998",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/pulga.png",
+        "teamJogador": "Team Liquid",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156276308695863397/team-liquid.png?ex=651704ba&is=6515b33a&hm=1da79bb618c6bd6fd808667bb814828ac5c94632d2f511073a4dae1ef00df97f&"
+    },
+    {
+        "id": "204",
+        "nickJogador": "K1NG",
+        "nameJogador": "Thiago Lapp",
+        "countryJogador": "Argentina",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157052137113649233/ar.png?ex=65173446&is=6515e2c6&hm=11ff00144766adfaaa2d93795312feef6884bed8d328fb9985f7223b1b71a4fb&",
+        "birthdayJogador": "21/04/2006",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/k1ng.png",
+        "teamJogador": "FaZe Clan",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156271630809579640/image.png?ex=6517005f&is=6515aedf&hm=5c206cfd4bacc4504bea9a5faf88362e6f4debc698e8ce04cd6526f95d9bac16&"
+    },
+    
+]
+ 
+ 

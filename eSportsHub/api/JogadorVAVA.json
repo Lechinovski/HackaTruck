@@ -1,0 +1,60 @@
+[
+    {
+        "id": "105",
+        "nickJogador": "TenZ",
+        "nameJogador": "Tyson Ngo",
+        "countryJogador": "Canadá",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156302901384323082/ca.png?ex=65147a7e&is=651328fe&hm=f220b540e8e7259ff47bc7655637ce0a19d766640beb216b8a63a9463457bd27&",
+        "birthdayJogador": "05/05/2001",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=240%2Cq=99%2Csharpen=1%2Cwidth=240/wp-content/uploads/tenz.png",
+        "teamJogador": "Sentinels",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156303687635972245/sentinels.png?ex=65147b3a&is=651329ba&hm=191ff5f16f3d2df5bd66230ff07d507c4fd12d3d97c230eb56b8d882e696a4b4&"
+    },
+    {
+        "id": "106",
+        "nickJogador": "Leo",
+        "nameJogador": "Leo Jannesson",
+        "countryJogador": "Suécia",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157044365148029180/se.png?ex=65172d09&is=6515db89&hm=e95908c626955d247cc199f42ad89fbf4cd686ed570f3f8a92bbb07eb2f85dc0&=&width=1024&height=1024",
+        "birthdayJogador": "15/12/2003",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/leo.png",
+        "teamJogador": "Fnatic",
+        "teamPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1156275177735340102/fnatic.png?ex=651703ac&is=6515b22c&hm=f08fcb8da774506dc13051692214c0aae4f30c55ac432f172464a4a30bff06f5&=&width=1060&height=1060"
+    },
+    {
+        "id": "107",
+        "nickJogador": "b0i",
+        "nameJogador": "Aaron Thao",
+        "countryJogador": "Estados Unidos",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157048508734521465/us.png?ex=651730e5&is=6515df65&hm=4eb9de86602dcbbcd4fbc7eea7944f1edefc3ecb752073edd61d6157350fc0a8&",
+        "birthdayJogador": "09/11/1996",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/b0i-2.png",
+        "teamJogador": "Talon Esports",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/talon-esports.png"
+    },
+    {
+        "id": "108",
+        "nickJogador": "Mistic",
+        "nameJogador": "James Orfila",
+        "countryJogador": "Reino Unido",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157049230054142023/gb.png?ex=65173191&is=6515e011&hm=1c0dbca0a904099ffd64d75bb0c520bea93c6791c97c9fcafeb4a72ed1db0cfd&=&width=1024&height=1024",
+        "birthdayJogador": "21/11/2001",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/mistic.png",
+        "teamJogador": "Apeks",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/apeks.png"
+    },
+    {
+        "id": "109",
+        "nickJogador": "Enzo",
+        "nameJogador": "Enzo Mestari",
+        "countryJogador": "França",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157050127853293668/fr.png?ex=65173267&is=6515e0e7&hm=624d4ee92fa6d6f49b1cb34d6ec067883e978b57f119da70031246909690b5bd&=&width=1024&height=1024",
+        "birthdayJogador": "12/06/1996",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/enzo.png",
+        "teamJogador": "Apeks",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/apeks.png"
+    },
+    
+]
+ 
+

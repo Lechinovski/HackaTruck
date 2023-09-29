@@ -1,0 +1,455 @@
+[
+    {
+        "id": "100",
+        "nickJogador": "s1mple",
+        "nameJogador": "Oleksandr Kostyliev",
+        "countryJogador": "Ucrânia",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156299444699013200/uk.png?ex=65147746&is=651325c6&hm=967a7d75506509f78ddad395cee4cf30b432b013bac77000987889a70c5476a1&",
+        "birthdayJogador": "2/10/1997",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=240%2Cq=99%2Csharpen=1%2Cwidth=240/wp-content/uploads/s1mple.png",
+        "teamJogador": "Natus Vincere",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156300026075680910/natus-vincere.png?ex=651477d1&is=65132651&hm=56c44fbad0d288daf202f1e25fa388d33dee187349da631f7112225ec81c308d&"
+    },
+    {
+        "id": "101",
+        "nickJogador": "NiKo",
+        "nameJogador": "Nikola Kovač",
+        "countryJogador": "Bósnia & Herzegovina",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156301198878593135/ba.png?ex=651478e8&is=65132768&hm=94a7b55d2a5f9bd321b9322dc08f3b6f3a393e449426b0cca35d9437863d765a&",
+        "birthdayJogador": "16/02/1997",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=240%2Cq=99%2Csharpen=1%2Cwidth=240/wp-content/uploads/niko.png",
+        "teamJogador": "G2 Esports",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156301823204925480/g2-esports.png?ex=6514797d&is=651327fd&hm=9f183cdc606e3907154c656b9c145ab4104f7bbee04dd9ec352186df7f34082d&"
+    },
+    {
+        "id": "102",
+        "nickJogador": "m0NESY",
+        "nameJogador": "Ilya Osipov",
+        "countryJogador": "Russia",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156302210003636386/ru.png?ex=651479d9&is=65132859&hm=4336d1b52ea7ecc34d7b064fb8663607780f0a687ba82f9ff0dbca9263ce9139&",
+        "birthdayJogador": "01/05/2005",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=240%2Cq=99%2Csharpen=1%2Cwidth=240/wp-content/uploads/m0nesy.png",
+        "teamJogador": "G2 Esports",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156301823204925480/g2-esports.png?ex=6514797d&is=651327fd&hm=9f183cdc606e3907154c656b9c145ab4104f7bbee04dd9ec352186df7f34082d&"
+    },
+    {
+        "id": "103",
+        "nickJogador": "b1t",
+        "nameJogador": "Valerii Vakhovskyi",
+        "countryJogador": "Ucrânia",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156299444699013200/uk.png?ex=65147746&is=651325c6&hm=967a7d75506509f78ddad395cee4cf30b432b013bac77000987889a70c5476a1&",
+        "birthdayJogador": "05/01/2003",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=240%2Cq=99%2Csharpen=1%2Cwidth=240/wp-content/uploads/b1t.png",
+        "teamJogador": "Natus Vincere",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156300026075680910/natus-vincere.png?ex=651477d1&is=65132651&hm=56c44fbad0d288daf202f1e25fa388d33dee187349da631f7112225ec81c308d&"
+    },
+    {
+        "id": "104",
+        "nickJogador": "FalleN",
+        "nameJogador": "Gabriel Todelo",
+        "countryJogador": "Brasil",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157043088892633169/br.png?ex=65172bd9&is=6515da59&hm=8021ade5028f821b43192affb650fa73080a50660b22fa2473a9bda451e2c965&=&width=1024&height=1024",
+        "birthdayJogador": "30/05/1991",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/fallen.png",
+        "teamJogador": "Furia",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156274764646715402/furia.png?ex=6517034a&is=6515b1ca&hm=a7bd8f052c4f675527c1982ca93147f5f3d8d571c1a1affb2e5df6ab3deb4c36&"
+    },
+    {
+        "id": "105",
+        "nickJogador": "TenZ",
+        "nameJogador": "Tyson Ngo",
+        "countryJogador": "Canadá",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156302901384323082/ca.png?ex=65147a7e&is=651328fe&hm=f220b540e8e7259ff47bc7655637ce0a19d766640beb216b8a63a9463457bd27&",
+        "birthdayJogador": "05/05/2001",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=240%2Cq=99%2Csharpen=1%2Cwidth=240/wp-content/uploads/tenz.png",
+        "teamJogador": "Sentinels",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156303687635972245/sentinels.png?ex=65147b3a&is=651329ba&hm=191ff5f16f3d2df5bd66230ff07d507c4fd12d3d97c230eb56b8d882e696a4b4&"
+    },
+    {
+        "id": "106",
+        "nickJogador": "Leo",
+        "nameJogador": "Leo Jannesson",
+        "countryJogador": "Suécia",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157044365148029180/se.png?ex=65172d09&is=6515db89&hm=e95908c626955d247cc199f42ad89fbf4cd686ed570f3f8a92bbb07eb2f85dc0&=&width=1024&height=1024",
+        "birthdayJogador": "15/12/2003",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/leo.png",
+        "teamJogador": "Fnatic",
+        "teamPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1156275177735340102/fnatic.png?ex=651703ac&is=6515b22c&hm=f08fcb8da774506dc13051692214c0aae4f30c55ac432f172464a4a30bff06f5&=&width=1060&height=1060"
+    },
+    {
+        "id": "107",
+        "nickJogador": "b0i",
+        "nameJogador": "Aaron Thao",
+        "countryJogador": "Estados Unidos",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157048508734521465/us.png?ex=651730e5&is=6515df65&hm=4eb9de86602dcbbcd4fbc7eea7944f1edefc3ecb752073edd61d6157350fc0a8&",
+        "birthdayJogador": "09/11/1996",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/b0i-2.png",
+        "teamJogador": "Talon Esports",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/talon-esports.png"
+    },
+    {
+        "id": "108",
+        "nickJogador": "Mistic",
+        "nameJogador": "James Orfila",
+        "countryJogador": "Reino Unido",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157049230054142023/gb.png?ex=65173191&is=6515e011&hm=1c0dbca0a904099ffd64d75bb0c520bea93c6791c97c9fcafeb4a72ed1db0cfd&=&width=1024&height=1024",
+        "birthdayJogador": "21/11/2001",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/mistic.png",
+        "teamJogador": "Apeks",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/apeks.png"
+    },
+    {
+        "id": "109",
+        "nickJogador": "Enzo",
+        "nameJogador": "Enzo Mestari",
+        "countryJogador": "França",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157050127853293668/fr.png?ex=65173267&is=6515e0e7&hm=624d4ee92fa6d6f49b1cb34d6ec067883e978b57f119da70031246909690b5bd&=&width=1024&height=1024",
+        "birthdayJogador": "12/06/1996",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/enzo.png",
+        "teamJogador": "Apeks",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/apeks.png"
+    },
+    {
+        "id": "110",
+        "nickJogador": "xmpl",
+        "nameJogador": "Artem Adarkin",
+        "countryJogador": "Russia",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1156302210003636386/ru.png?ex=65171cd9&is=6515cb59&hm=c34a3b4bfc847ca7ace5e5a22fa938be3289c9e24686b56bc062ab5e4a1502c8&=&width=1024&height=1024",
+        "birthdayJogador": "23/04/1999",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/xmpl.png",
+        "teamJogador": "Natus Vincere",
+        "teamPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1156300026075680910/natus-vincere.png?ex=65171ad1&is=6515c951&hm=540929d85adb8671cb04a9b3b43ff96adbfebbe0373d2c69a66880d38192fef0&=&width=1060&height=1060"
+    },
+    
+    {
+        "id": "111",
+        "nickJogador": "Fuzzface",
+        "nameJogador": "David Tillberg-Persson",
+        "countryJogador": "Estados Unidos",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157048508734521465/us.png?ex=651730e5&is=6515df65&hm=4eb9de86602dcbbcd4fbc7eea7944f1edefc3ecb752073edd61d6157350fc0a8&=&width=1024&height=1024",
+        "birthdayJogador": "08/02/1994",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/fuzzface.png",
+        "teamJogador": "OVERPEEKERS",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/overpeekers.png"
+    },
+    
+    {
+        "id": "112",
+        "nickJogador": "Gustav",
+        "nameJogador": "Gustav Blønd",
+        "countryJogador": "Dinamarca",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157053346457333830/dk.png?ex=65173566&is=6515e3e6&hm=0d97001fde40baff19a935f324467291b07b282909f718b69cddabd38dab901c&=&width=1024&height=1024",
+        "birthdayJogador": "03/09/1999",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/gustav.png",
+        "teamJogador": "FaZe Clan",
+        "teamPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1156271630809579640/image.png?ex=6517005f&is=6515aedf&hm=5c206cfd4bacc4504bea9a5faf88362e6f4debc698e8ce04cd6526f95d9bac16&=&width=1060&height=1060"
+    },
+    {
+        "id": "113",
+        "nickJogador": "hwinn",
+        "nameJogador": "Hunter Winn",
+        "countryJogador": "Estados Unidos",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157048508734521465/us.png?ex=651730e5&is=6515df65&hm=4eb9de86602dcbbcd4fbc7eea7944f1edefc3ecb752073edd61d6157350fc0a8&=&width=1024&height=1024",
+        "birthdayJogador": "28/04/1994",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/hwinn.png",
+        "teamJogador": "Soniqs",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=434%2Cq=80%2Csharpen=1%2Cwidth=434/wp-content/uploads/soniqs.png"
+    },
+    {
+        "id": "114",
+        "nickJogador": "Jeemzz",
+        "nameJogador": "Jim Eliassen",
+        "countryJogador": "Noruega",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157049689481420890/no.png?ex=651731fe&is=6515e07e&hm=5be877e96764dc71f182e0251a9f3a0900ca5bb26af92cf8bd26d07a3bb3214e&=&width=1024&height=1024",
+        "birthdayJogador": "06/10/1996",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/jeemzz.png",
+        "teamJogador": "FaZe Clan",
+        "teamPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1156271630809579640/image.png?ex=6517005f&is=6515aedf&hm=5c206cfd4bacc4504bea9a5faf88362e6f4debc698e8ce04cd6526f95d9bac16&=&width=1060&height=1060"
+    },
+    {
+        "id": "115",
+        "nickJogador": "babybay",
+        "nameJogador": "Andrej Francisty",
+        "countryJogador": "Estados Unidos",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157048508734521465/us.png?ex=651730e5&is=6515df65&hm=4eb9de86602dcbbcd4fbc7eea7944f1edefc3ecb752073edd61d6157350fc0a8&=&width=1024&height=1024",
+        "birthdayJogador": "23/06/1995",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/babybay2.png",
+        "teamJogador": "FaZe Clan",
+        "teamPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1156271630809579640/image.png?ex=6517005f&is=6515aedf&hm=5c206cfd4bacc4504bea9a5faf88362e6f4debc698e8ce04cd6526f95d9bac16&=&width=1060&height=1060"
+    },
+    
+    {
+        "id": "116",
+        "nickJogador": "SoOn",
+        "nameJogador": "Terence Tarlier",
+        "countryJogador": "França",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157050127853293668/fr.png?ex=65173267&is=6515e0e7&hm=624d4ee92fa6d6f49b1cb34d6ec067883e978b57f119da70031246909690b5bd&=&width=1024&height=1024",
+        "birthdayJogador": "04/02/1994",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/soon.png",
+        "teamJogador": "Joblife",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/joblife.png"
+    },
+    
+    {
+        "id": "117",
+        "nickJogador": "ryujehong",
+        "nameJogador": "Jehong Ryu",
+        "countryJogador": "Coreia do Sul",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157056694065565888/kr.png?ex=65173884&is=6515e704&hm=51d47139263754bde9555ff5648afa90a5f3433a3063d7b6da3e1dedd3fa1a46&=&width=1024&height=1024",
+        "birthdayJogador": "05/09/1991",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/ryujehong.png",
+        "teamJogador": "Gen.G",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/gen.g.png"
+    },
+    {
+        "id": "118",
+        "nickJogador": "Striker",
+        "nameJogador": "Nam-joo Kwon",
+        "countryJogador": "Coreia do Sul",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157056694065565888/kr.png?ex=65173884&is=6515e704&hm=51d47139263754bde9555ff5648afa90a5f3433a3063d7b6da3e1dedd3fa1a46&=&width=1024&height=1024",
+        "birthdayJogador": "04/12/1999",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/striker.png",
+        "teamJogador": "Boston Uprising",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/boston-uprising.png"
+    },
+    {
+        "id": "119",
+        "nickJogador": "Carpe",
+        "nameJogador": "Lee Jae-Hyeok",
+        "countryJogador": "Coreia do Sul",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157056694065565888/kr.png?ex=65173884&is=6515e704&hm=51d47139263754bde9555ff5648afa90a5f3433a3063d7b6da3e1dedd3fa1a46&=&width=1024&height=1024",
+        "birthdayJogador": "14/10/1998",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/carpe.png",
+        "teamJogador": "T1",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/t1.png"
+    },
+    {
+        "id": "200",
+        "nickJogador": "blackoutz",
+        "nameJogador": "Patrick Garcia Da Silva",
+        "countryJogador": "Brasil",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157043088892633169/br.png?ex=65172bd9&is=6515da59&hm=8021ade5028f821b43192affb650fa73080a50660b22fa2473a9bda451e2c965&",
+        "birthdayJogador": "16/04/1999",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/blackoutz.png",
+        "teamJogador": "Cloud9",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156274019159519284/cloud9.png?ex=65170298&is=6515b118&hm=5ce273b7e3feaf7008b00efedaa1d44b9344b2ba6a6b801b067f12ec7ba234f1&"
+    },
+    
+    {
+        "id": "201",
+        "nickJogador": "MrSavage",
+        "nameJogador": "Martin Foss Andersen",
+        "countryJogador": "Noruega",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157049689481420890/no.png?ex=651731fe&is=6515e07e&hm=5be877e96764dc71f182e0251a9f3a0900ca5bb26af92cf8bd26d07a3bb3214e&",
+        "birthdayJogador": "12/11/2004",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/mrsavage.png",
+        "teamJogador": "00Nation",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/00nation.png"
+    },
+    
+    {
+        "id": "202",
+        "nickJogador": "Bugha",
+        "nameJogador": "Kyle Giersdorf",
+        "countryJogador": "Estados Unidos",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157048508734521465/us.png?ex=651730e5&is=6515df65&hm=4eb9de86602dcbbcd4fbc7eea7944f1edefc3ecb752073edd61d6157350fc0a8&",
+        "birthdayJogador": "30/12/2002",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/bugha.png",
+        "teamJogador": "Dignitas",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/dignitas.png"
+    },
+    {
+        "id": "203",
+        "nickJogador": "Pulga",
+        "nameJogador": "Thales Henrique",
+        "countryJogador": "Brasil",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157043088892633169/br.png?ex=65172bd9&is=6515da59&hm=8021ade5028f821b43192affb650fa73080a50660b22fa2473a9bda451e2c965&",
+        "birthdayJogador": "25/06/1998",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/pulga.png",
+        "teamJogador": "Team Liquid",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156276308695863397/team-liquid.png?ex=651704ba&is=6515b33a&hm=1da79bb618c6bd6fd808667bb814828ac5c94632d2f511073a4dae1ef00df97f&"
+    },
+    {
+        "id": "204",
+        "nickJogador": "K1NG",
+        "nameJogador": "Thiago Lapp",
+        "countryJogador": "Argentina",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157052137113649233/ar.png?ex=65173446&is=6515e2c6&hm=11ff00144766adfaaa2d93795312feef6884bed8d328fb9985f7223b1b71a4fb&",
+        "birthdayJogador": "21/04/2006",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/k1ng.png",
+        "teamJogador": "FaZe Clan",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156271630809579640/image.png?ex=6517005f&is=6515aedf&hm=5c206cfd4bacc4504bea9a5faf88362e6f4debc698e8ce04cd6526f95d9bac16&"
+    },
+    {
+        "id": "205",
+        "nickJogador": "Paluh",
+        "nameJogador": "Luccas Molina",
+        "countryJogador": "Brasil",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157043088892633169/br.png?ex=65172bd9&is=6515da59&hm=8021ade5028f821b43192affb650fa73080a50660b22fa2473a9bda451e2c965&",
+        "birthdayJogador": "29/02/2000",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/paluh.png",
+        "teamJogador": "Team Liquid",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156276308695863397/team-liquid.png?ex=651704ba&is=6515b33a&hm=1da79bb618c6bd6fd808667bb814828ac5c94632d2f511073a4dae1ef00df97f&"
+    },
+    
+    {
+        "id": "206",
+        "nickJogador": "Lagonis",
+        "nameJogador": "Lorenzo Volpi",
+        "countryJogador": "Brasil",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157043088892633169/br.png?ex=65172bd9&is=6515da59&hm=8021ade5028f821b43192affb650fa73080a50660b22fa2473a9bda451e2c965&",
+        "birthdayJogador": "10/01/2002",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/lagonis.png",
+        "teamJogador": "Team Liquid",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156276308695863397/team-liquid.png?ex=651704ba&is=6515b33a&hm=1da79bb618c6bd6fd808667bb814828ac5c94632d2f511073a4dae1ef00df97f&"
+    },
+    
+    {
+        "id": "207",
+        "nickJogador": "MacieJay",
+        "nameJogador": "Maciej Dzikowski",
+        "countryJogador": "Estados Unidos",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157048508734521465/us.png?ex=651730e5&is=6515df65&hm=4eb9de86602dcbbcd4fbc7eea7944f1edefc3ecb752073edd61d6157350fc0a8&",
+        "birthdayJogador": "05/11/1990",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/maciejay.png",
+        "teamJogador": "TSM",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157054830154633286/tsm.png?ex=651736c8&is=6515e548&hm=a0d1128780c80d915683922707c22bf8d93a752366c77d40f29e2606347aed6a&"
+    },
+    {
+        "id": "208",
+        "nickJogador": "Achieved",
+        "nameJogador": "Matthew Solomon",
+        "countryJogador": "Estados Unidos",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157048508734521465/us.png?ex=651730e5&is=6515df65&hm=4eb9de86602dcbbcd4fbc7eea7944f1edefc3ecb752073edd61d6157350fc0a8&",
+        "birthdayJogador": "17/09/1997",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/achieved.png",
+        "teamJogador": "DarkZero Esports",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/darkzero-esports.png"
+    },
+    {
+        "id": "209",
+        "nickJogador": "Alem4o",
+        "nameJogador": "Karl Zarth",
+        "countryJogador": "Brasil",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157043088892633169/br.png?ex=65172bd9&is=6515da59&hm=8021ade5028f821b43192affb650fa73080a50660b22fa2473a9bda451e2c965&",
+        "birthdayJogador": "18/10/2001",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/alem4o.png",
+        "teamJogador": "G2 Esports",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156301823204925480/g2-esports.png?ex=65171c7d&is=6515cafd&hm=32e1627424c9c6d985bffc44d2465d47e2c2dfd4a8a3c9a72f1c58303b95370e&"
+    },
+    {
+        "id": "210",
+        "nickJogador": "ImperialHal",
+        "nameJogador": "Philip Dosen",
+        "countryJogador": "Estados Unidos",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157048508734521465/us.png?ex=651730e5&is=6515df65&hm=4eb9de86602dcbbcd4fbc7eea7944f1edefc3ecb752073edd61d6157350fc0a8&",
+        "birthdayJogador": "31/05/1999",
+        "photoJogador":  "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/imperialhal.png",
+        "teamJogador": "TSM",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157054830154633286/tsm.png?ex=651736c8&is=6515e548&hm=a0d1128780c80d915683922707c22bf8d93a752366c77d40f29e2606347aed6a&"
+    },
+    
+    {
+        "id": "211",
+        "nickJogador": "Apryze",
+        "nameJogador": "Anthony Andrade",
+        "countryJogador": "Estados Unidos",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157048508734521465/us.png?ex=651730e5&is=6515df65&hm=4eb9de86602dcbbcd4fbc7eea7944f1edefc3ecb752073edd61d6157350fc0a8&",
+        "birthdayJogador": "19/01/1999",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/apryze.jpg",
+        "teamJogador": "NRG",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156276308385468456/nrg.png?ex=651704ba&is=6515b33a&hm=47d6c082f3161ab7c9ef0a607efc793e4f139bf4f0cb2a81487946a644ca3bca&"
+    },
+    
+    {
+        "id": "212",
+        "nickJogador": "SkittleCakes",
+        "nameJogador": "William August",
+        "countryJogador": "Estados Unidos",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157048508734521465/us.png?ex=651730e5&is=6515df65&hm=4eb9de86602dcbbcd4fbc7eea7944f1edefc3ecb752073edd61d6157350fc0a8&",
+        "birthdayJogador": "21/05/1999",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/skittlecakes.png",
+        "teamJogador": "OpTic Gaming",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156275933175623680/optic-gaming.png?ex=65170461&is=6515b2e1&hm=816e4306d0c8aaaf72f9e52cb95ca44abe56449d9315d415a84c95b64b39d6c9&"
+    },
+    {
+        "id": "213",
+        "nickJogador": "Sweet",
+        "nameJogador": "Christopher Sexton",
+        "countryJogador": "Estados Unidos",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157048508734521465/us.png?ex=651730e5&is=6515df65&hm=4eb9de86602dcbbcd4fbc7eea7944f1edefc3ecb752073edd61d6157350fc0a8&",
+        "birthdayJogador": "02/07/1999",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/sweet.png",
+        "teamJogador": "NRG",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156276308385468456/nrg.png?ex=651704ba&is=6515b33a&hm=47d6c082f3161ab7c9ef0a607efc793e4f139bf4f0cb2a81487946a644ca3bca&"
+    },
+    {
+        "id": "214",
+        "nickJogador": "Reps",
+        "nameJogador": "Jordan Wolfe",
+        "countryJogador": "Estados Unidos",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157048508734521465/us.png?ex=651730e5&is=6515df65&hm=4eb9de86602dcbbcd4fbc7eea7944f1edefc3ecb752073edd61d6157350fc0a8&",
+        "birthdayJogador": "23/04/1995",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/reps.png",
+        "teamJogador": "TSM",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157054830154633286/tsm.png?ex=651736c8&is=6515e548&hm=a0d1128780c80d915683922707c22bf8d93a752366c77d40f29e2606347aed6a&"
+    },
+    {
+        "id": "215",
+        "nickJogador": "Summit",
+        "nameJogador": "Park Woo-tae",
+        "countryJogador": "Coreia do Sul",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157056694065565888/kr.png?ex=65173884&is=6515e704&hm=51d47139263754bde9555ff5648afa90a5f3433a3063d7b6da3e1dedd3fa1a46&",
+        "birthdayJogador": "08/12/1998",
+        "photoJogador": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/5b/TL_Summit_2023_Split_1.png/revision/latest/scale-to-width-down/220?cb=20230127171814",
+        "teamJogador": "Team Liquid",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156276308695863397/team-liquid.png?ex=651704ba&is=6515b33a&hm=1da79bb618c6bd6fd808667bb814828ac5c94632d2f511073a4dae1ef00df97f&"
+    },
+    
+    {
+        "id": "216",
+        "nickJogador": "Berserker",
+        "nameJogador": "Kim Min-cheol",
+        "countryJogador": "Coreia do Sul",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157056694065565888/kr.png?ex=65173884&is=6515e704&hm=51d47139263754bde9555ff5648afa90a5f3433a3063d7b6da3e1dedd3fa1a46&",
+        "birthdayJogador": "25/05/2003",
+        "photoJogador": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fb/C9_Berserker_2023_Split_1.png/revision/latest/scale-to-width-down/220?cb=20230124043740",
+        "teamJogador": "Cloud9",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156274019159519284/cloud9.png?ex=65170298&is=6515b118&hm=5ce273b7e3feaf7008b00efedaa1d44b9344b2ba6a6b801b067f12ec7ba234f1&"
+    },
+    
+    {
+        "id": "217",
+        "nickJogador": "Pyosik",
+        "nameJogador": "Hong Chang-hyeon",
+        "countryJogador": "Coreia do Sul",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157056694065565888/kr.png?ex=65173884&is=6515e704&hm=51d47139263754bde9555ff5648afa90a5f3433a3063d7b6da3e1dedd3fa1a46&",
+        "birthdayJogador": "12/03/2000",
+        "photoJogador": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9c/TL_Pyosik_2023_Split_1.png/revision/latest/scale-to-width-down/220?cb=20230127171813",
+        "teamJogador": "Team Liquid",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156276308695863397/team-liquid.png?ex=651704ba&is=6515b33a&hm=1da79bb618c6bd6fd808667bb814828ac5c94632d2f511073a4dae1ef00df97f&"
+    },
+    {
+        "id": "218",
+        "nickJogador": "Noah",
+        "nameJogador": "Oh Hyeon-taek",
+        "countryJogador": "Coreia do Sul",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157056694065565888/kr.png?ex=65173884&is=6515e704&hm=51d47139263754bde9555ff5648afa90a5f3433a3063d7b6da3e1dedd3fa1a46&",
+        "birthdayJogador": "04/10/2001",
+        "photoJogador": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/8/8d/FNC_Noah_2023_Split_3.png/revision/latest/scale-to-width-down/220?cb=20230831130726",
+        "teamJogador": "Fnatic",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156275177735340102/fnatic.png?ex=651703ac&is=6515b22c&hm=f08fcb8da774506dc13051692214c0aae4f30c55ac432f172464a4a30bff06f5&"
+    },
+    {
+        "id": "219",
+        "nickJogador": "EMENES",
+        "nameJogador": "Jang Min-soo",
+        "countryJogador": "Coreia do Sul",
+        "countryPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1157056694065565888/kr.png?ex=65173884&is=6515e704&hm=51d47139263754bde9555ff5648afa90a5f3433a3063d7b6da3e1dedd3fa1a46&",
+        "birthdayJogador": "01/01/2001",
+        "photoJogador": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/cc/C9C_EMENES_2023_Split_1.png/revision/latest/scale-to-width-down/220?cb=20230127162144",
+        "teamJogador": "Cloud9",
+        "teamPhotoJogador": "https://cdn.discordapp.com/attachments/1152325417483649078/1156274019159519284/cloud9.png?ex=65170298&is=6515b118&hm=5ce273b7e3feaf7008b00efedaa1d44b9344b2ba6a6b801b067f12ec7ba234f1&"
+    }
+    
+]

@@ -1,0 +1,404 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F145FA132AC629DF00736374 /* eSportsHubApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F145FA122AC629DF00736374 /* eSportsHubApp.swift */; };
+		F145FA152AC629DF00736374 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F145FA142AC629DF00736374 /* ContentView.swift */; };
+		F145FA172AC629E000736374 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F145FA162AC629E000736374 /* Assets.xcassets */; };
+		F145FA1A2AC629E000736374 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F145FA192AC629E000736374 /* Preview Assets.xcassets */; };
+		F145FA212AC62A1A00736374 /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F145FA202AC62A1A00736374 /* SplashScreenView.swift */; };
+		F145FA232AC62A2C00736374 /* Jogadores.swift in Sources */ = {isa = PBXBuildFile; fileRef = F145FA222AC62A2C00736374 /* Jogadores.swift */; };
+		F145FA252AC62A4200736374 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = F145FA242AC62A4200736374 /* Home.swift */; };
+		F145FA272AC62A5800736374 /* Jogos.swift in Sources */ = {isa = PBXBuildFile; fileRef = F145FA262AC62A5800736374 /* Jogos.swift */; };
+		F145FA292AC62A7B00736374 /* Times.swift in Sources */ = {isa = PBXBuildFile; fileRef = F145FA282AC62A7B00736374 /* Times.swift */; };
+		F145FA2B2AC62A8B00736374 /* Torneios.swift in Sources */ = {isa = PBXBuildFile; fileRef = F145FA2A2AC62A8B00736374 /* Torneios.swift */; };
+		F145FA2D2AC62AA200736374 /* api.swift in Sources */ = {isa = PBXBuildFile; fileRef = F145FA2C2AC62AA200736374 /* api.swift */; };
+		F145FA2F2AC62ABB00736374 /* JogadorClicou.swift in Sources */ = {isa = PBXBuildFile; fileRef = F145FA2E2AC62ABB00736374 /* JogadorClicou.swift */; };
+		F145FA312AC62AD000736374 /* JogosClicou.swift in Sources */ = {isa = PBXBuildFile; fileRef = F145FA302AC62AD000736374 /* JogosClicou.swift */; };
+		F145FA342AC62AEB00736374 /* TimesClicou.swift in Sources */ = {isa = PBXBuildFile; fileRef = F145FA332AC62AEB00736374 /* TimesClicou.swift */; };
+		F145FA362AC62AFC00736374 /* TorneiosClicou.swift in Sources */ = {isa = PBXBuildFile; fileRef = F145FA352AC62AFC00736374 /* TorneiosClicou.swift */; };
+		F145FA382AC62B1000736374 /* Pesquisar.swift in Sources */ = {isa = PBXBuildFile; fileRef = F145FA372AC62B1000736374 /* Pesquisar.swift */; };
+		F145FA3A2AC62B5A00736374 /* PesquisarTimes.swift in Sources */ = {isa = PBXBuildFile; fileRef = F145FA392AC62B5A00736374 /* PesquisarTimes.swift */; };
+		F145FA3C2AC62B6B00736374 /* PesquisarGames.swift in Sources */ = {isa = PBXBuildFile; fileRef = F145FA3B2AC62B6B00736374 /* PesquisarGames.swift */; };
+		F145FA3E2AC62B8700736374 /* PesquisarTorneios.swift in Sources */ = {isa = PBXBuildFile; fileRef = F145FA3D2AC62B8700736374 /* PesquisarTorneios.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		F145FA0F2AC629DF00736374 /* eSportsHub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = eSportsHub.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F145FA122AC629DF00736374 /* eSportsHubApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = eSportsHubApp.swift; sourceTree = "<group>"; };
+		F145FA142AC629DF00736374 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F145FA162AC629E000736374 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F145FA192AC629E000736374 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F145FA202AC62A1A00736374 /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
+		F145FA222AC62A2C00736374 /* Jogadores.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Jogadores.swift; sourceTree = "<group>"; };
+		F145FA242AC62A4200736374 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		F145FA262AC62A5800736374 /* Jogos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Jogos.swift; sourceTree = "<group>"; };
+		F145FA282AC62A7B00736374 /* Times.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Times.swift; sourceTree = "<group>"; };
+		F145FA2A2AC62A8B00736374 /* Torneios.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Torneios.swift; sourceTree = "<group>"; };
+		F145FA2C2AC62AA200736374 /* api.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = api.swift; sourceTree = "<group>"; };
+		F145FA2E2AC62ABB00736374 /* JogadorClicou.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JogadorClicou.swift; sourceTree = "<group>"; };
+		F145FA302AC62AD000736374 /* JogosClicou.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JogosClicou.swift; sourceTree = "<group>"; };
+		F145FA332AC62AEB00736374 /* TimesClicou.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimesClicou.swift; sourceTree = "<group>"; };
+		F145FA352AC62AFC00736374 /* TorneiosClicou.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TorneiosClicou.swift; sourceTree = "<group>"; };
+		F145FA372AC62B1000736374 /* Pesquisar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pesquisar.swift; sourceTree = "<group>"; };
+		F145FA392AC62B5A00736374 /* PesquisarTimes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PesquisarTimes.swift; sourceTree = "<group>"; };
+		F145FA3B2AC62B6B00736374 /* PesquisarGames.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PesquisarGames.swift; sourceTree = "<group>"; };
+		F145FA3D2AC62B8700736374 /* PesquisarTorneios.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PesquisarTorneios.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F145FA0C2AC629DF00736374 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F145FA062AC629DF00736374 = {
+			isa = PBXGroup;
+			children = (
+				F145FA112AC629DF00736374 /* eSportsHub */,
+				F145FA102AC629DF00736374 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F145FA102AC629DF00736374 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F145FA0F2AC629DF00736374 /* eSportsHub.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F145FA112AC629DF00736374 /* eSportsHub */ = {
+			isa = PBXGroup;
+			children = (
+				F145FA122AC629DF00736374 /* eSportsHubApp.swift */,
+				F145FA142AC629DF00736374 /* ContentView.swift */,
+				F145FA162AC629E000736374 /* Assets.xcassets */,
+				F145FA182AC629E000736374 /* Preview Content */,
+				F145FA202AC62A1A00736374 /* SplashScreenView.swift */,
+				F145FA222AC62A2C00736374 /* Jogadores.swift */,
+				F145FA242AC62A4200736374 /* Home.swift */,
+				F145FA262AC62A5800736374 /* Jogos.swift */,
+				F145FA282AC62A7B00736374 /* Times.swift */,
+				F145FA2A2AC62A8B00736374 /* Torneios.swift */,
+				F145FA2C2AC62AA200736374 /* api.swift */,
+				F145FA2E2AC62ABB00736374 /* JogadorClicou.swift */,
+				F145FA302AC62AD000736374 /* JogosClicou.swift */,
+				F145FA332AC62AEB00736374 /* TimesClicou.swift */,
+				F145FA352AC62AFC00736374 /* TorneiosClicou.swift */,
+				F145FA372AC62B1000736374 /* Pesquisar.swift */,
+				F145FA392AC62B5A00736374 /* PesquisarTimes.swift */,
+				F145FA3B2AC62B6B00736374 /* PesquisarGames.swift */,
+				F145FA3D2AC62B8700736374 /* PesquisarTorneios.swift */,
+			);
+			path = eSportsHub;
+			sourceTree = "<group>";
+		};
+		F145FA182AC629E000736374 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				F145FA192AC629E000736374 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F145FA0E2AC629DF00736374 /* eSportsHub */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F145FA1D2AC629E000736374 /* Build configuration list for PBXNativeTarget "eSportsHub" */;
+			buildPhases = (
+				F145FA0B2AC629DF00736374 /* Sources */,
+				F145FA0C2AC629DF00736374 /* Frameworks */,
+				F145FA0D2AC629DF00736374 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = eSportsHub;
+			productName = eSportsHub;
+			productReference = F145FA0F2AC629DF00736374 /* eSportsHub.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F145FA072AC629DF00736374 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1420;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					F145FA0E2AC629DF00736374 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+				};
+			};
+			buildConfigurationList = F145FA0A2AC629DF00736374 /* Build configuration list for PBXProject "eSportsHub" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F145FA062AC629DF00736374;
+			productRefGroup = F145FA102AC629DF00736374 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F145FA0E2AC629DF00736374 /* eSportsHub */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F145FA0D2AC629DF00736374 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F145FA1A2AC629E000736374 /* Preview Assets.xcassets in Resources */,
+				F145FA172AC629E000736374 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F145FA0B2AC629DF00736374 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F145FA292AC62A7B00736374 /* Times.swift in Sources */,
+				F145FA312AC62AD000736374 /* JogosClicou.swift in Sources */,
+				F145FA2F2AC62ABB00736374 /* JogadorClicou.swift in Sources */,
+				F145FA232AC62A2C00736374 /* Jogadores.swift in Sources */,
+				F145FA3A2AC62B5A00736374 /* PesquisarTimes.swift in Sources */,
+				F145FA152AC629DF00736374 /* ContentView.swift in Sources */,
+				F145FA362AC62AFC00736374 /* TorneiosClicou.swift in Sources */,
+				F145FA252AC62A4200736374 /* Home.swift in Sources */,
+				F145FA2D2AC62AA200736374 /* api.swift in Sources */,
+				F145FA3C2AC62B6B00736374 /* PesquisarGames.swift in Sources */,
+				F145FA2B2AC62A8B00736374 /* Torneios.swift in Sources */,
+				F145FA3E2AC62B8700736374 /* PesquisarTorneios.swift in Sources */,
+				F145FA132AC629DF00736374 /* eSportsHubApp.swift in Sources */,
+				F145FA342AC62AEB00736374 /* TimesClicou.swift in Sources */,
+				F145FA272AC62A5800736374 /* Jogos.swift in Sources */,
+				F145FA212AC62A1A00736374 /* SplashScreenView.swift in Sources */,
+				F145FA382AC62B1000736374 /* Pesquisar.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		F145FA1B2AC629E000736374 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F145FA1C2AC629E000736374 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F145FA1E2AC629E000736374 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"eSportsHub/Preview Content\"";
+				DEVELOPMENT_TEAM = 786TT9545Z;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = eSportsHub.eSportsHub;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F145FA1F2AC629E000736374 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"eSportsHub/Preview Content\"";
+				DEVELOPMENT_TEAM = 786TT9545Z;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = eSportsHub.eSportsHub;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F145FA0A2AC629DF00736374 /* Build configuration list for PBXProject "eSportsHub" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F145FA1B2AC629E000736374 /* Debug */,
+				F145FA1C2AC629E000736374 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F145FA1D2AC629E000736374 /* Build configuration list for PBXNativeTarget "eSportsHub" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F145FA1E2AC629E000736374 /* Debug */,
+				F145FA1F2AC629E000736374 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F145FA072AC629DF00736374 /* Project object */;
+}

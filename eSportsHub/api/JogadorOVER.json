@@ -1,0 +1,63 @@
+[
+    
+    {
+        "id": "115",
+        "nickJogador": "babybay",
+        "nameJogador": "Andrej Francisty",
+        "countryJogador": "Estados Unidos",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157048508734521465/us.png?ex=651730e5&is=6515df65&hm=4eb9de86602dcbbcd4fbc7eea7944f1edefc3ecb752073edd61d6157350fc0a8&=&width=1024&height=1024",
+        "birthdayJogador": "23/06/1995",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/babybay2.png",
+        "teamJogador": "FaZe Clan",
+        "teamPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1156271630809579640/image.png?ex=6517005f&is=6515aedf&hm=5c206cfd4bacc4504bea9a5faf88362e6f4debc698e8ce04cd6526f95d9bac16&=&width=1060&height=1060"
+    },
+    
+    {
+        "id": "116",
+        "nickJogador": "SoOn",
+        "nameJogador": "Terence Tarlier",
+        "countryJogador": "França",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157050127853293668/fr.png?ex=65173267&is=6515e0e7&hm=624d4ee92fa6d6f49b1cb34d6ec067883e978b57f119da70031246909690b5bd&=&width=1024&height=1024",
+        "birthdayJogador": "04/02/1994",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/soon.png",
+        "teamJogador": "Joblife",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/joblife.png"
+    },
+    
+    {
+        "id": "117",
+        "nickJogador": "ryujehong",
+        "nameJogador": "Jehong Ryu",
+        "countryJogador": "Coreia do Sul",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157056694065565888/kr.png?ex=65173884&is=6515e704&hm=51d47139263754bde9555ff5648afa90a5f3433a3063d7b6da3e1dedd3fa1a46&=&width=1024&height=1024",
+        "birthdayJogador": "05/09/1991",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/ryujehong.png",
+        "teamJogador": "Gen.G",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/gen.g.png"
+    },
+    {
+        "id": "118",
+        "nickJogador": "Striker",
+        "nameJogador": "Nam-joo Kwon",
+        "countryJogador": "Coreia do Sul",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157056694065565888/kr.png?ex=65173884&is=6515e704&hm=51d47139263754bde9555ff5648afa90a5f3433a3063d7b6da3e1dedd3fa1a46&=&width=1024&height=1024",
+        "birthdayJogador": "04/12/1999",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/striker.png",
+        "teamJogador": "Boston Uprising",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/boston-uprising.png"
+    },
+    {
+        "id": "119",
+        "nickJogador": "Carpe",
+        "nameJogador": "Lee Jae-Hyeok",
+        "countryJogador": "Coreia do Sul",
+        "countryPhotoJogador": "https://media.discordapp.net/attachments/1152325417483649078/1157056694065565888/kr.png?ex=65173884&is=6515e704&hm=51d47139263754bde9555ff5648afa90a5f3433a3063d7b6da3e1dedd3fa1a46&=&width=1024&height=1024",
+        "birthdayJogador": "14/10/1998",
+        "photoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=contain%2Cheight=400%2Cq=99%2Csharpen=1%2Cwidth=400/wp-content/uploads/carpe.png",
+        "teamJogador": "T1",
+        "teamPhotoJogador": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=36%2Cq=85%2Cwidth=36/wp-content/uploads/t1.png"
+    },
+    
+]
+ 
+ 
